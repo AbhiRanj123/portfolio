@@ -26,8 +26,8 @@ var AboutHTML = `
             systems. Whether it's architecting a full-stack MERN application or training neural
             networks, I thrive at the intersection of development and innovation.
           </p>
-          <a href="#" class="btn btn-primary" download>
-            <i class="fas fa-download"></i> Download Resume
+          <a href="https://drive.google.com/file/d/1K_QwlZ9v2j2qj9fhqp4k6ToOk10_Dh36/view?usp=drive_link" class="btn btn-primary" target="_blank">
+            <i class="fas fa-download"></i> View Resume
           </a>
         </div>
         <div class="about-stats">
